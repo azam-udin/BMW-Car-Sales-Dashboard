@@ -57,8 +57,8 @@ It combines KPI cards, pivot tables, slicers, and charts to deliver a dynamic, i
 ---
 
 ## 📸 Dashboard Screenshot
-*(Insert screenshot here)*  
-![Dashboard Screenshot](images/dashboard.png)
+<img width="1300" height="699" alt="image" src="https://github.com/user-attachments/assets/543c23b6-1952-423c-97db-e9107ba40d11" />
+
 
 ---
 
